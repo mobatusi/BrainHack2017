@@ -7,7 +7,7 @@ A summary of topics covered by the Nipype workshop and hackweek
 3. Capturing execution information for reuse
 
 ## Day Two
-1.Mastering Nipype Basics
+1. Mastering Nipype Basics
 2. using Nipyepe for Analysis
 3. Converting DICOMS to a BIDS dataset
 4. Adapting and running a simple workflow on a BIDS data
